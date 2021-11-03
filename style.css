@@ -1,0 +1,14 @@
+.ibox{
+    padding:30px;
+    background-color:red;
+}
+body{
+    text-align:center;
+    background-color:cyan;
+}
+#myphoto{
+    border-radius:50%;
+}
+p{
+    text-align:justify;
+}
